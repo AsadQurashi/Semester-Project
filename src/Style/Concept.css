@@ -1,0 +1,96 @@
+.concept_body
+{
+    background-color:#F6F1F1;
+    display: flex;
+    flex-direction: column;
+}
+/* Marquee */
+.Marquee {
+    border: 1px solid;
+    justify-content: center;
+    background-color: #967E76;
+    color: #080202;
+    margin-bottom: 3px;
+}
+
+.mq {
+    padding-top: 0.5%;
+}
+/* Header */
+.Big_Heading
+{
+    margin-top: 5px;
+    margin-bottom: 5px; 
+    background-color: #D8C4B6;
+    font-family: 'Pacifico',
+    cursive;
+    padding-top: 10%;
+    text-align: center;
+    height: 450px;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+
+/* All Picture Setting*/
+.necklas
+{
+    width: 40%;
+}
+
+/*first picture*/
+#first_picture
+{
+    float: left;
+    margin-top: 3%;
+    margin-right: 10px;
+    margin-bottom: 5%;
+    margin-left: 3%;
+}
+
+.first_picture
+{
+    background-color: #FFFAF4;
+}
+
+/* Text of Fist picture */
+.text1
+{
+    padding-top: 33px;
+}
+
+#second_picture
+{
+    margin-left: 3%;
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 5%;
+}
+
+.second_picture {
+    background-color: #FFFAF4;
+}
+
+/* Text of second Picture */
+.text2 {
+    margin-left: 3%;
+    padding-top: 5px;
+}
+
+#third_picture
+{
+    margin-left: 3%;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5%;
+}
+
+.third_picture {
+    background-color: #FFFAF4;
+}
+
+/* Text of Third Picture */
+.text3 {
+    margin-left: 3%;
+    padding-top: 0;
+}
+

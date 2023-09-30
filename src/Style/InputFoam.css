@@ -1,0 +1,200 @@
+.gold-data-page .h1 {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-family: 'Great Vibes', cursive;
+    background-color: #FAF0E4;
+    color: #000;
+    font-size: 42px;
+    box-shadow: 2px 4px 8px 8px rgba(234, 11, 11, 0.2);
+} 
+
+/* GoldDataPage */
+.gold-data-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.gold-data-page .form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.gold-data-page .lbl {
+    font-weight: bold;
+}
+
+
+.gold-data-page .input-filed {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: border-color 0.3s ease;
+}
+
+.gold-data-page .input-filed:focus {
+    outline: none;
+    border-color: #0066ff;
+}
+
+.gold-data-page .btn {
+    width: 300px;
+    padding: 10px 20px;
+    margin: 10px 0;
+    background-color: #0066ff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.gold-data-page #btn:hover {
+    background-color: #0052cc;
+}
+
+.gold-data-page .made-by,
+.gold-data-page .ordered-by {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+/* For Diamond Page */
+
+.diamond-data-page .h1 {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-family: 'Great Vibes', cursive;
+    background-color: #FAF0E4;
+    color: #000;
+    font-size: 42px;
+    box-shadow: 2px 4px 8px 8px rgba(234, 11, 11, 0.2);
+}
+
+/* Diamond Page */
+.diamond-data-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.diamond-data-page .form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.diamond-data-page .lbl 
+{
+    font-weight: bold;
+}
+
+
+.diamond-data-page .input-filed {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: border-color 0.3s ease;
+}
+
+.diamond-data-page .input-filed:focus {
+    outline: none;
+    border-color: #0066ff;
+}
+
+.diamond-data-page .btn {
+    width: 300px;
+    padding: 10px 20px;
+    margin: 10px 0;
+    background-color: #0066ff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.diamond-data-page .btn:hover:hover {
+    background-color: #0052cc;
+}
+
+
+/* Ring Data Page */
+.ring-specification-page .h1 {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-family: 'Great Vibes', cursive;
+    background-color: #FAF0E4;
+    color: #000;
+    font-size: 42px;
+    box-shadow: 2px 4px 8px 8px rgba(234, 11, 11, 0.2);
+}
+
+/* Ring Specification */
+.ring-specification-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.ring-specification-page .form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.ring-specification-page .lbl {
+    font-weight: bold;
+}
+
+
+.ring-specification-page .input-filed {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: border-color 0.3s ease;
+}
+
+.ring-specification-page .input-filed:focus {
+    outline: none;
+    border-color: #0066ff;
+}
+
+.ring-specification-page .btn {
+    width: 300px;
+    padding: 10px 20px;
+    margin: 10px 0;
+    background-color: #0066ff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.ring-specification-page .btn:hover {
+    background-color: #0052cc;
+}

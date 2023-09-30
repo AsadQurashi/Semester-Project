@@ -1,0 +1,76 @@
+.Marquee
+{
+    margin: 10px 0 10px 0;
+    border: none;
+}
+#Brand {
+    cursor: pointer;
+    margin-right: 20%; 
+    font-family: 'Great Vibes', cursive;
+    font-size: 42px;
+    box-shadow: 2px 4px 8px 8px rgba(234, 11, 11, 0.2);
+}
+
+#navbar {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    padding: 7px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+    box-shadow: 0 2px 4px rgba(234, 11, 11, 0.2);
+}
+
+#navbar:hover {
+    background-color: #363433;
+    outline: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    animation: border-animation 0.3s linear infinite alternate;
+}
+
+.navbr {
+    text-decoration: none;
+    padding: 5px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+    box-shadow: 0 2px 4px rgba(234, 11, 11, 0.2);
+}
+
+.navbr:hover {
+    background-color: #363433;
+    outline: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    animation: border-animation 0.3s linear infinite alternate;
+}
+
+#List {
+    background-color: gray;
+}
+
+.navbar .navbar-nav .nav-link.dropdown-toggle {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding: 7px;
+    color: #fff4f4;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+    box-shadow: 0 2px 4px rgba(234, 11, 11, 0.2);
+}
+
+.navbar .navbar-nav .nav-link.dropdown-toggle:hover {
+    background-color: #363433;
+    outline: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    animation: border-animation 0.3s linear infinite alternate;
+}
